@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy 👋
+<h3>Graphics programming and C++ enjoyer<br/> Cel-shading enthusiast</h3>
+
+- 🔭 I’m currently working on [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
+
+- 🌱 I’m currently learning **UE5, Zig, Elixir**
+<p align="left">
+</p>
+
 
 <!--
 **LowerDeckBoy/LowerDeckBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
