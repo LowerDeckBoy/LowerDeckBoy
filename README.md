@@ -1,9 +1,9 @@
 ### Howdy 👋
-<h3>Graphics programming and C++ enjoyer<br/> Cel-shading enthusiast</h3>
+<h3>Graphics programming and C++ enjoyer<br/>Cel-shading enthusiast</h3>
 
 - 🔭 I’m currently working on [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
 
-- 🌱 I’m currently learning **UE5, Zig, Elixir**
+- 🌱 I’m currently learning **UE5, DirectX 12, Vulkan**
 <p align="left">
 </p>
 
