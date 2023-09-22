@@ -1,5 +1,8 @@
-### Howdy 👋
-<h3>Graphics programming and C++ enjoyer<br/>Cel-shading enthusiast</h3>
+### 
+Howdy 👋
+<br/>
+<br/>
+Graphics programming and C++ enjoyer<br/>Cel-shading enthusiast
 
 - 🔭 I’m currently working on [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
 
