@@ -1,7 +1,6 @@
-**Howdy**
-<br/><br/>
-Graphics programming and C++ enjoyer<br/>
-Cel-shading enthusiast
+## Howdy
+
+## Graphics programming and C++ enjoyer.<br/>Cel-shading enthusiast.<br/>Raytracer wannabe.
 
 - 🔭 I’m currently working on [**LowerDeck Engine**](https://github.com/LowerDeckBoy/LowerDeck_Engine) and [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
 
