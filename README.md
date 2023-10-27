@@ -2,14 +2,21 @@
 
 ## Graphics programming and C++ enjoyer.<br/>Cel-shading enthusiast.<br/>Raytracer wannabe.
 
-- 🔭 I’m currently working on [**LowerDeck Engine**](https://github.com/LowerDeckBoy/LowerDeck_Engine) and [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
 
-- 🌱 I’m currently learning **UE5, DirectX 12, Vulkan**
+- 🔭 Currently working on [**LowerDeck Engine**](https://github.com/LowerDeckBoy/LowerDeck_Engine) and [**DirectX 12 Rendering**](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
+- 🌱 Currently focused on **UE5, DirectX 12, Vulkan**
 <p align="left">
 </p>
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowerDeckBoy&bg_color=30,e96443,904e95&title_color=000&text_color=000&hide_border=true)](https://github.com/LowerDeckBoy/github-readme-stats)
 
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeckBoy&repo=LowerDeck_Engine&theme=darcula&hide_border=true)](https://github.com/LowerDeckBoy/LowerDeck_Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeckBoy&repo=DirectX-12-Rendering&bg_color=30,e96443,904e95&title_color=000&text_color=000&hide_border=true)](https://github.com/LowerDeckBoy/DirectX-12-Rendering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeckBoy&repo=DXR-Demo&bg_color=30,e96443,904e95&title_color=000&text_color=000&hide_border=true)](https://github.com/LowerDeckBoy/DXR-Demo)
+bg_color=30,e96443,904e95&title_color=000&text_color=000&hide_border=true
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeckBoy&repo=DXR-Demo)](https://github.com/LowerDeckBoy/DXR-Demo)
 **LowerDeckBoy/LowerDeckBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
