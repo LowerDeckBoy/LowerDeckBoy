@@ -9,7 +9,7 @@
 </p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowerDeckBoy&bg_color=30,e96443,904e95&title_color=000&text_color=000&hide_border=true)](https://github.com/LowerDeckBoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowerDeckBoy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)](https://github.com/LowerDeckBoy/github-readme-stats)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeckBoy&repo=LowerDeck_Engine&theme=darcula&hide_border=true)](https://github.com/LowerDeckBoy/LowerDeck_Engine)
