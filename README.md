@@ -3,7 +3,7 @@
 ## Graphics programming and C++ enjoyer.<br/>Cel-shading enthusiast.<br/>Raytracer wannabe.
 
 
-- 🔭 Currently working on [**LowerDeck Engine**](https://github.com/LowerDeckBoy/LowerDeck_Engine)
+- 🔭 Currently working on [**Lower Deck Engine**](https://github.com/LowerDeckBoy/Lower-Deck-Engine)
 - 🌱 Currently focused on **UE5, DirectX 12, Vulkan**
 <p align="left">
 </p>
